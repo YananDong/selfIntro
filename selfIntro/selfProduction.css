@@ -177,13 +177,13 @@ ul.info li span[class^='am-icon']{
     padding: 10px;
     width: 100%;
 }
-.workExpSec .am-u-sm-8{
-    margin-top:15px;
-}
 .workExpSec .am-u-sm-8 h3{
     display: inline-block;
     margin-right: 5px;
 }
 .workExpSec .am-u-sm-8 p{
     font-size:1.5rem;
+}
+.workExpSec .am-u-sm-8{
+    margin-top:15px;
 }
