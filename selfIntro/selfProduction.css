@@ -79,6 +79,7 @@ ul.info li{
     text-align: left;
     border: 0;
     background: transparent;
+    font-size:10px;
 }
 ul.info li span[class^='am-icon']{
     color: #005bb5;
